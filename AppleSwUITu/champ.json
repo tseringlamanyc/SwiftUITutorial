@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jhin",
+    "description": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
+    "role": "Marksman",
+    "nickname": "The virtuoso",
+    "backGroundImage": "jhin",
+    "thumbImage": "jhin-main",
+    "id": 0,
+    "isFav": true
+  },
+    {
+    "name": "Vayne",
+    "description": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
+    "role": "Marksman",
+    "nickname": "The night hunter",
+    "backGroundImage": "vayne",
+    "thumbImage": "vayne-main",
+    "id": 1,
+    "isFav": false
+  },
+    {
+    "name": "Samira",
+    "description":"Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair",
+    "role": "Marksman",
+    "nickname": "The desert rose",
+    "backGroundImage": "samira",
+    "thumbImage": "samira-main",
+    "id": 2,
+    "isFav": false
+  },
+    {
+    "name": "Ezreal",
+    "description": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
+    "role": "Marksman",
+    "nickname": "The  Prodigal Explorer",
+    "backGroundImage": "ezreal",
+    "thumbImage": "ezreal-main",
+    "id": 3,
+    "isFav": true 
+  }
+]
